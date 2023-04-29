@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  orderdetails: one
+  deliveryways: one
+  deliveryaddress: MyString
+  deliverystatus: MyString
+
+two:
+  orderdetails: two
+  deliveryways: two
+  deliveryaddress: MyString
+  deliverystatus: MyString
